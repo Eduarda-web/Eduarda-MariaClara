@@ -1,52 +1,52 @@
 criarCartao(
     'Biologia',
-    'Pergunta',
-    'resposta'
+    'Qual é a função principal do DNA?',
+    'Armazenar as informações genéticas dos seres vivos'
 )
 criarCartao(
     'Matemática',
-    'Pergunta',
-    'resposta'
+    'Quanto é 25% de 200?',
+    '50'
 )
 criarCartao(
-    'Português',
-    'Pergunta',
-    'resposta'
+    'Português', 
+    'Oque é um subsantivo?',
+    'É a palavra que nomeia seres, objetos, lugares, sentimentos ou ideias'
 )
 criarCartao(
     'Química',
-    'Pergunta',
-    'resposta'
+    'Qual é a fórmula química da água?',
+    'H2O'
 )
 criarCartao(
     'Educação física',
-    'Pergunta',
-    'resposta'
+    'Qual é a importancia da atividade física para a saúde?',
+    'Ela ajuda a melhorar a saúde física e mental, além de prevenir doenças'
 )
 criarCartao(
     'Geografia',
-    'Pergunta',
-    'resposta'
+    'Qyal é o maior continente do mundo?',
+    'Ásia'
 )
 criarCartao(
     'Inglês',
-    'Pergunta',
-    'resposta'
+    'O que significa "Good morning" em português?',
+    'Bom dia'
 )
 criarCartao(
     'História',
-    'Pergunta',
-    'resposta'
+    'Em que ano o Brasil declarou sua independência de Portugual?',
+    'Em 1822'
 )
 criarCartao(
     'Filosofia',
-    'Pergunta',
-    'resposta'
+    'O que é ética?',
+    'É o estudo dos principios que orientam o comportamento humano e as escolhas entre o certo e o errado'
 )
 criarCartao(
     'Sociologia',
-    'Pergunta',
-    'resposta'
+    'O que é sociedade?',
+    'É o conjunto de pessoas que convivem e compartilham reg'
 )
 criarCartao(
     'Física',
