@@ -1,0 +1,60 @@
+criarCartao(
+    'Biologia',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Matemática',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Português',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Química',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Educação física',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Geografia',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Inglês',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'História',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Filosofia',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Sociologia',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Física',
+    'Pergunta',
+    'resposta'
+)
+criarCartao(
+    'Matemática',
+    'Pergunta',
+    'resposta'
+)
