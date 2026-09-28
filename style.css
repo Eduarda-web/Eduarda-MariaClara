@@ -18,4 +18,5 @@ body{
     color: var(--cor-texto);
     border: 1px solid var(--verso-cartao);
     text-align: left;
+    padding: 0.5rem;
 }
