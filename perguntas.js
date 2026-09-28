@@ -50,11 +50,11 @@ criarCartao(
 )
 criarCartao(
     'Física',
-    'Pergunta',
-    'resposta'
+    'Qual é a unidade de medida da força no sistema internacional?',
+    'Newton(N)'
 )
 criarCartao(
     'Matemática',
-    'Pergunta',
-    'resposta'
+    'Qual o resutado de 7x8?',
+    '56'
 )
