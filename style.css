@@ -15,5 +15,6 @@ body{
 }
 
 .cartao__conteudo h3{
-    color: var(--cor-texto)
+    color: var(--cor-texto);
+    border: 1px solid var(--verso-cartao);
 }
